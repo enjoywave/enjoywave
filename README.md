@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 UI/UX DESIGN repo site = <a href="https://enjoywave.github.io" target="_blank">enjoywave.github.io</a>
+blog = <a href="https://www.enjoywave.site" target="_blank">enjoywave.site</a>
 <!--
 **enjoywave/enjoywave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
