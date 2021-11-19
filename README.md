@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-UI/UX DESIGN repo site = <a href = 'https://enjoywave.github.io' target = '_blank' ></a>
+UI/UX DESIGN repo site = (https://enjoywave.github.io){:target='_blank'} 
+
 <!--
 **enjoywave/enjoywave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
